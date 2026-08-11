@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <!-- ANIMATED HEADER BANNER (Capsule Render - Gerçek Yazılımcı SVG Header) -->
+  <!-- ANIMATED HEADER BANNER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=ksilverstone&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" width="100%" />
 
   <br/><br/>
@@ -37,34 +37,19 @@
 
 | Proje | Açıklama | Teknolojiler | Durum |
 | :--- | :--- | :--- | :---: |
-| <b><a href="https://github.com/ksilverstone/libft">Libft</a></b> | C Standart Kütüphanesi Yeniden Yazımı | `C` | 🟢 125/100 |
-| <b><a href="https://github.com/ksilverstone/get_next_line">get_next_line</a></b> | File Descriptor üzerinden satır okuyucu | `C`, `File I/O` | 🟢 125/100 |
-| <b><a href="https://github.com/ksilverstone/ft_printf">ft_printf</a></b> | Printf fonksiyonunun yeniden oluşturulması | `C`, `Variadic` | 🟢 100/100 |
-| <b><a href="https://github.com/ksilverstone/push_swap">push_swap</a></b> | İki stack ile minimum adımda sıralama algoritması | `C`, `Algorithms` | 🟢 Completed |
-| <b><a href="https://github.com/ksilverstone/Philosophers">Philosophers</a></b> | Threading, Mutex & Process eşzamanlılık problemi | `C`, `Pthreads`, `POSIX` | 🟢 Completed |
-| <b><a href="https://github.com/ksilverstone/minishell">minishell</a></b> | Kendi Bash kabuk (shell) simülasyonumuz | `C`, `Unix API`, `AST` | 🟢 Completed |
+| <b><a href="https://github.com/ksilverstone/42-libft">42-libft</a></b> | Ecole 42 Ana Eğitimin ilk projesi. Kendi C kütüphanemizi oluşturuyoruz | `C` | 🟢 Completed |
+| <b><a href="https://github.com/ksilverstone/42-printf">42-printf</a></b> | Printf fonksiyonunun C dili ile yeniden oluşturulması | `C`, `Variadic` | 🟢 Completed |
+| <b><a href="https://github.com/ksilverstone/gnl">gnl</a></b> | File Descriptor üzerinden satır satır okuyan get_next_line projesi | `C`, `File I/O` | 🟢 Completed |
 
 </details>
 
 <details open>
-<summary><b>💼 Staj & Kurumsal Projeler</b></summary>
+<summary><b>💼 Staj Projeleri</b></summary>
 <br />
 
 | Proje | Açıklama | Teknolojiler | Katkı |
 | :--- | :--- | :--- | :--- |
-| <b><a href="https://github.com/ksilverstone/ulasim-park-report">UlaşımPark Projesi</a></b> | Ulaşım ve filo yönetim sistemleri takip modülleri | `Go`, `PostgreSQL`, `Docker` | Full-stack Geliştirme |
-| <b><a href="https://github.com/ksilverstone/kobi-otomasyon">KOBİ Otomasyonu</a></b> | İşletmeler için stok, sipariş ve audit raporlama backend'i | `TypeScript`, `Supabase`, `REST API` | Backend Mimarı |
-
-</details>
-
-<details open>
-<summary><b>🏫 Okul & Akademik Projeler</b></summary>
-<br />
-
-| Proje | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| <b><a href="https://github.com/ksilverstone/data-structures">Veri Yapıları & Algoritmalar</a></b> | Ağaç, Graf ve Arama Algoritmaları Uygulamaları | `C++`, `Python` |
-| <b><a href="https://github.com/ksilverstone/graduation-project">Bitirme Projesi</a></b> | Akıllı Şehir & IoT Tabanlı İzleme Sistemi | `React`, `Python`, `MQTT` |
+| <b><a href="https://github.com/ksilverstone/ulasimpark">UlaşımPark Staj Projesi</a></b> | Kocaeli UlaşımPark filo ve ulaşım yönetim sistemleri takip ve raporlama modülleri | `Go`, `PostgreSQL`, `Docker` | Full-stack & Backend Geliştirme |
 
 </details>
 
@@ -74,8 +59,12 @@
 
 | Proje | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
-| <b><a href="https://github.com/ksilverstone/awesome-portfolio">Dev Portfolio</a></b> | Modern Glassmorphism tasarımlı kişisel web sitesi | `Next.js`, `TailwindCSS`, `Framer Motion` |
-| <b><a href="https://github.com/ksilverstone/cli-tool">Fast-CLI</a></b> | Geliştiriciler için hızlı otomasyon CLI aracı | `Go` |
+| <b><a href="https://github.com/ksilverstone/kobi-otomasyon">KOBİ Otomasyonu</a></b> | İşletmeler için stok, sipariş ve audit raporlama backend altyapısı | `TypeScript`, `Supabase`, `REST API` |
+| <b><a href="https://github.com/ksilverstone/kefawatch">KefaWatch</a></b> | Dizi ve Film takip / izleme platformu | `Java`, `Android/Web` |
+| <b><a href="https://github.com/ksilverstone/Market-Gateway">Market-Gateway</a></b> | Market entegrasyonu ve API Gateway mimarisi | `Java`, `Spring` |
+| <b><a href="https://github.com/ksilverstone/cloudcompiler">CloudCompiler</a></b> | Bulut tabanlı canlı kod derleme ve çalıştırma platformu | `JavaScript`, `Node.js` |
+| <b><a href="https://github.com/ksilverstone/ebay-price-suggestion">eBay Price Suggestion</a></b> | Akıllı ürün fiyat analizi ve öneri aracı | `Python`, `Machine Learning` |
+| <b><a href="https://github.com/ksilverstone/b2b">B2B Platform</a></b> | Kurumsal B2B e-ticaret platformu | `HTML`, `JavaScript` |
 
 </details>
 
@@ -87,6 +76,7 @@
   <!-- Diller -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -110,8 +100,8 @@
 ## 📊 İstatistikler & İlerleme (Stats & Analytics)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksilverstone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksilverstone&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksilverstone&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=ksilverstone&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 <br />
