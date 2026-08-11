@@ -72,6 +72,10 @@
 | :------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- | :-------------------------- |
 | <b><a href="https://github.com/ksilverstone/web-tasarim-project">Web Tasarım Projesi</a></b> | Doğa turizmi acentesi için geliştirilmiş modern front-end projesi | `HTML`, `CSS`, `JavaScript` |
 | <b><a href="https://github.com/ksilverstone/DL">Deep Learning (DL)</a></b>                   | Derin öğrenme ve yapay zeka algoritma modelleri çalışmaları       | `Python`, `PyTorch`         |
+| <b><a href="https://github.com/ksilverstone/kefawatch">KefaWatch</a></b>                     | Dizi ve Film takip / izleme platformu                             | `Java`, `Android/Web`       |
+| <b><a href="https://github.com/ksilverstone/Market-Gateway">Market-Gateway</a></b>           | Market entegrasyonu ve API Gateway mimarisi                       | `Java`, `Spring`            |
+| <b><a href="https://github.com/ksilverstone/cloudcompiler">CloudCompiler</a></b>             | Bulut tabanlı canlı kod derleme ve çalıştırma platformu           | `JavaScript`, `Node.js`     |
+| <b><a href="https://github.com/ksilverstone/SocialNetwork">SocialNetwork</a></b>             | Sosyal ağ ve etkileşim platformu mimarisi                         | `Java`                      |
 
 </details>
 
@@ -79,13 +83,9 @@
 <summary><b>🚀 Kişisel Projeler</b></summary>
 <br />
 
-| Proje                                                                              | Açıklama                                                | Teknolojiler                                     |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------ | :----------------------------------------------- |
-| <b><a href="https://github.com/ksilverstone/ticora">Ticora</a></b>                 | Modern e-ticaret ve işletme platformu                   | `TypeScript`, `Next.js`, `React`, `React Native` |
-| <b><a href="https://github.com/ksilverstone/kefawatch">KefaWatch</a></b>           | Dizi ve Film takip / izleme platformu                   | `Java`, `Android/Web`                            |
-| <b><a href="https://github.com/ksilverstone/Market-Gateway">Market-Gateway</a></b> | Market entegrasyonu ve API Gateway mimarisi             | `Java`, `Spring`                                 |
-| <b><a href="https://github.com/ksilverstone/cloudcompiler">CloudCompiler</a></b>   | Bulut tabanlı canlı kod derleme ve çalıştırma platformu | `JavaScript`, `Node.js`                          |
-| <b><a href="https://github.com/ksilverstone/SocialNetwork">SocialNetwork</a></b>   | Sosyal ağ ve etkileşim platformu mimarisi               | `Java`                                           |
+| Proje                                                              | Açıklama                              | Teknolojiler                                     |
+| :----------------------------------------------------------------- | :------------------------------------ | :----------------------------------------------- |
+| <b><a href="https://github.com/ksilverstone/ticora">Ticora</a></b> | Modern e-ticaret ve işletme platformu | `TypeScript`, `Next.js`, `React`, `React Native` |
 
 </details>
 
